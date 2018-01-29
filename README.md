@@ -1,4 +1,4 @@
-# Wrangle Open Street Maps Data
+# Wrangle OpenStreetMaps Data
 
 This project uses data munging techniques, such as assessing the quality of the data for validity, accuracy, completeness, consistency and uniformity, to clean Miami OpenStreetMap data.
 
